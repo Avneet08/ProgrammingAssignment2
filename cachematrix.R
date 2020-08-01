@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+# Using solve() to find the inverse and caching the queries 
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
